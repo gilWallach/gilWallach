@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Typescript with React.js**
 
-- 🔭 I previously worked on [AirGnB](https://airgnb.onrender.com/#/)
+- :white_check_mark: I previously worked on [AirGnB](https://airgnb.onrender.com/#/)
 
-- 🔭 And on [SpaLook](https://gilwallach.github.io/SpaLook/)
+- :white_check_mark: And on [SpaLook](https://gilwallach.github.io/SpaLook/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gilWallach](https://github.com/gilWallach)
 
