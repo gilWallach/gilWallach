@@ -9,7 +9,7 @@
 
 - :white_check_mark: And on [SpaLook](https://gilwallach.github.io/SpaLook/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/gilWallach](https://github.com/gilWallach)
+- 👨‍💻 All of my projects are available at the reposetory section.
 
 - 💬 Ask me about **React, Vue, Typescript, node.js**
 
